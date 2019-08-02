@@ -1,12 +1,8 @@
 import React from 'react';
 import TerminalInReact from 'terminal-in-react';
-import './terminal.css';
+import {appName, author, githubURL} from '../constants'
 
 class Terminal extends React.Component {
-    constructor(props) {
-        super(props);
-    }
-
     render() {
         return (
             <div
@@ -19,20 +15,25 @@ class Terminal extends React.Component {
             >
                 <TerminalInReact
                     color='green'
+                    hideTopBar={true}
+                    allowTabs={false}
+                    startState='maximised'
                     backgroundColor='black'
                     barColor='black'
                     style={{ fontWeight: "bold", fontSize: "1em" }}
                     commands={{
-                        'open-google': () => window.open('https://www.google.com/', '_blank'),
-                        showmsg: "hello",
-                        popup: () => alert('Terminal in React')
+                        'github': () => window.open(githubURL, '_blank'),
+                        'about': () => `${appName} is a simple console game written in Fortran.`,
+                        'author': () => author,
                     }}
                     descriptions={{
-                        'open-google': 'opens google.com',
-                        showmsg: 'shows a message',
-                        alert: 'alert', popup: 'alert'
+                        'github': 'opens the github repository',
+                        'about': `shows information about ${appName}`,
+                        'author': () => `shows the game's author`
                     }}
-                    msg='You can write anything here. Example - Hello! My name is Foo and I like Bar.'
+                    msg={`Welcome!\n` +
+                    `This is the interactive homepage for ${appName}.\n` +
+                    `Type 'help' to see a list of commands.`}
                 />
             </div>
         );
