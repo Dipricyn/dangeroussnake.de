@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dangeroussnake.de/static/css/main.3d4c03cb.chunk.css",
+    "main.js": "/dangeroussnake.de/static/js/main.9a86f445.chunk.js",
+    "main.js.map": "/dangeroussnake.de/static/js/main.9a86f445.chunk.js.map",
+    "runtime~main.js": "/dangeroussnake.de/static/js/runtime~main.d280ea42.js",
+    "runtime~main.js.map": "/dangeroussnake.de/static/js/runtime~main.d280ea42.js.map",
+    "static/js/2.eb7e9b74.chunk.js": "/dangeroussnake.de/static/js/2.eb7e9b74.chunk.js",
+    "static/js/2.eb7e9b74.chunk.js.map": "/dangeroussnake.de/static/js/2.eb7e9b74.chunk.js.map",
+    "index.html": "/dangeroussnake.de/index.html",
+    "precache-manifest.8ceee39795ec0de15563de461b6fd134.js": "/dangeroussnake.de/precache-manifest.8ceee39795ec0de15563de461b6fd134.js",
+    "service-worker.js": "/dangeroussnake.de/service-worker.js",
+    "static/css/main.3d4c03cb.chunk.css.map": "/dangeroussnake.de/static/css/main.3d4c03cb.chunk.css.map"
+  }
+}
