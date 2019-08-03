@@ -29,7 +29,7 @@ class Terminal extends React.Component {
                     descriptions={{
                         'github': 'opens the github repository',
                         'about': `shows information about ${appName}`,
-                        'author': () => `shows the game's author`
+                        'author': `shows the game's author`
                     }}
                     msg={`Welcome!\n` +
                     `This is the interactive homepage for ${appName}.\n` +
