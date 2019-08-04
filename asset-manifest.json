@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d4c03cb.chunk.css",
-    "main.js": "/static/js/main.a0b6661d.chunk.js",
-    "main.js.map": "/static/js/main.a0b6661d.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.eb7e9b74.chunk.js": "/static/js/2.eb7e9b74.chunk.js",
-    "static/js/2.eb7e9b74.chunk.js.map": "/static/js/2.eb7e9b74.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.84e713b84dc715a5744bb0ec290291f5.js": "/precache-manifest.84e713b84dc715a5744bb0ec290291f5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3d4c03cb.chunk.css.map": "/static/css/main.3d4c03cb.chunk.css.map"
+    "main.css": "/dangeroussnake.de/static/css/main.3d4c03cb.chunk.css",
+    "main.js": "/dangeroussnake.de/static/js/main.17966c08.chunk.js",
+    "main.js.map": "/dangeroussnake.de/static/js/main.17966c08.chunk.js.map",
+    "runtime~main.js": "/dangeroussnake.de/static/js/runtime~main.d280ea42.js",
+    "runtime~main.js.map": "/dangeroussnake.de/static/js/runtime~main.d280ea42.js.map",
+    "static/js/2.eb7e9b74.chunk.js": "/dangeroussnake.de/static/js/2.eb7e9b74.chunk.js",
+    "static/js/2.eb7e9b74.chunk.js.map": "/dangeroussnake.de/static/js/2.eb7e9b74.chunk.js.map",
+    "index.html": "/dangeroussnake.de/index.html",
+    "precache-manifest.ebdc110b0d9a8cc0c046b34ab1006ed3.js": "/dangeroussnake.de/precache-manifest.ebdc110b0d9a8cc0c046b34ab1006ed3.js",
+    "service-worker.js": "/dangeroussnake.de/service-worker.js",
+    "static/css/main.3d4c03cb.chunk.css.map": "/dangeroussnake.de/static/css/main.3d4c03cb.chunk.css.map"
   }
 }
