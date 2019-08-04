@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dangeroussnake.de/static/css/main.3d4c03cb.chunk.css",
-    "main.js": "/dangeroussnake.de/static/js/main.c2a9c8bc.chunk.js",
-    "main.js.map": "/dangeroussnake.de/static/js/main.c2a9c8bc.chunk.js.map",
-    "runtime~main.js": "/dangeroussnake.de/static/js/runtime~main.d280ea42.js",
-    "runtime~main.js.map": "/dangeroussnake.de/static/js/runtime~main.d280ea42.js.map",
-    "static/js/2.5904d738.chunk.js": "/dangeroussnake.de/static/js/2.5904d738.chunk.js",
-    "static/js/2.5904d738.chunk.js.map": "/dangeroussnake.de/static/js/2.5904d738.chunk.js.map",
-    "index.html": "/dangeroussnake.de/index.html",
-    "precache-manifest.19e720f3e203ce276df8a1983b4b5089.js": "/dangeroussnake.de/precache-manifest.19e720f3e203ce276df8a1983b4b5089.js",
-    "service-worker.js": "/dangeroussnake.de/service-worker.js",
-    "static/css/main.3d4c03cb.chunk.css.map": "/dangeroussnake.de/static/css/main.3d4c03cb.chunk.css.map"
+    "main.css": "/static/css/main.3d4c03cb.chunk.css",
+    "main.js": "/static/js/main.b3d188b4.chunk.js",
+    "main.js.map": "/static/js/main.b3d188b4.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.f6a60ff5.chunk.js": "/static/js/2.f6a60ff5.chunk.js",
+    "static/js/2.f6a60ff5.chunk.js.map": "/static/js/2.f6a60ff5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6c52496b3f65baaa2cfbaa0a54f6500a.js": "/precache-manifest.6c52496b3f65baaa2cfbaa0a54f6500a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3d4c03cb.chunk.css.map": "/static/css/main.3d4c03cb.chunk.css.map"
   }
 }
