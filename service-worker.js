@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dangeroussnake.de/precache-manifest.ebdc110b0d9a8cc0c046b34ab1006ed3.js"
+  "/dangeroussnake.de/precache-manifest.19e720f3e203ce276df8a1983b4b5089.js"
 );
 
 self.addEventListener('message', (event) => {
